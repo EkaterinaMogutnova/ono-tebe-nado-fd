@@ -46,6 +46,7 @@
 .address__link {
   text-decoration: underline;
   text-underline-position: under;
+  text-decoration-line: underline;
 }
 
 .overlay:before {
@@ -232,10 +233,6 @@
   min-width: 265px;
   box-sizing: border-box;
 }
-.address__link {
-  text-decoration-line: underline;
-}
-
 .footer__menu-list {
   justify-items: center;
   align-items: center;
