@@ -233,9 +233,7 @@
   box-sizing: border-box;
 }
 .address__link {
-  text-decoration: none;
   text-decoration-line: underline;
-  text-underline-position: under;
 }
 
 .footer__menu-list {
